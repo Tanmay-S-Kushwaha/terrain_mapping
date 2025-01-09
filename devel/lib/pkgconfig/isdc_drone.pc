@@ -1,0 +1,8 @@
+prefix=/home/tsk/terrain_mapping/devel
+
+Name: isdc_drone
+Description: Description of isdc_drone
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

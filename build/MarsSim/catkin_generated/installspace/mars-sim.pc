@@ -1,0 +1,8 @@
+prefix=/home/tsk/terrain_mapping/install
+
+Name: mars-sim
+Description: Description of mars-sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
